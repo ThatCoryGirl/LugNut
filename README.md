@@ -23,9 +23,13 @@ mileage_est = mileage_last_known + months_since_update * est_miles_per_month
 If you're trying to find the next scheduled service for a specific make and model based on mileage:
 
 SELECT * FROM maintenance_schedule
+
 WHERE make = 'Subaru' AND model = 'ImprezaWRX'
+
 AND mileage >= mileage_est
+
 ORDER BY mileage ASC
+
 LIMIT 1;
 
 
