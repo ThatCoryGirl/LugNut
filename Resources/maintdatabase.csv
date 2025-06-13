@@ -1,8 +1,2 @@
-﻿Make,Model,Year,mileage_last_known,mileage_last_updated,est_miles_per_month
-Subaru,ImprezaWRX,2017,37000,6/10/2025,500
-Subaru,ImprezaWRX,2010,96500,6/10/2025,400
-Subaru,ImprezaWRX,2019,42000,6/10/2025,1000
-Subaru,WRXSTI,2016,102000,6/10/2025,1200
-Subaru,ImprezaWRX,2024,3174,6/10/2025,800
-Subaru,WRXSTI,2020,54000,6/10/2025,1500
-Subaru,ImprezaWRX,2017,103333,6/10/2025,700
+﻿vehicle_id,mileage,service_name,date
+1,,,
