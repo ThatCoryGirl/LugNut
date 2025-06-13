@@ -3,6 +3,7 @@ LugNut -- The Car Maintenance Mileage Interval App
 Technologies used: Figma.com for brainstorming app, SQLite3, SQLite, GitHub Desktop,
 
 Introduction and a Problem Worth Solving:
+
 I cofounded a carclub in my area. I have found that there are many apps for Fleet Vehicle Maintenance but not for personal maintenance. Even as a car enthusiast it is hard to keep track of where I got my tires from and what the mileage warranty is or when my last oil change was or how many miles I have left before it needs to be changed. Or maybe I change my oil myself and want to find out where the best deals are for oil filters. I want this app to be an all encompassing place to keep track of all of my car needs. I used to rely heavily on forums but now there are 50 billion different social media platforms and groups to follow instead. It can be nervewracking.
 
 Methodology:
