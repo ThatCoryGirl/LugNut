@@ -14,6 +14,21 @@ Objective:
 
 I want to be able to have the app plug in my vehicle details, create a profile, then notify me when it needs maintenance. That is to be its primary function but I do believe the app could have the potential for other things like a car friends social side, a local repair/maintenance shop review corner, performance part information, and finally warranty info on things I've purchased and from where.
 
+Use Cases:
+
+You're trying to estimate the current mileage of a vehicle in the database:
+
+mileage_est = mileage_last_known + months_since_update * est_miles_per_month
+
+If you're trying to find the next scheduled service for a specific make and model based on mileage:
+
+SELECT * FROM maintenance_schedule
+WHERE make = 'Subaru' AND model = 'ImprezaWRX'
+AND mileage >= mileage_est
+ORDER BY mileage ASC
+LIMIT 1;
+
+
 Conclusions:
 
 Critiques & Suggestions from Mentors:
