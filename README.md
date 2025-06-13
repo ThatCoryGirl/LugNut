@@ -1,6 +1,6 @@
 LugNut -- The Car Maintenance Mileage Interval App
 
-Technologies used: Figma.com for brainstorming app, SQLite3, SQLite, GitHub Desktop,
+Technologies used: Figma.com for brainstorming app, ChatGPT acted as my instructor, SQLite3, SQLite, GitHub Desktop,
 
 Introduction and a Problem Worth Solving:
 
